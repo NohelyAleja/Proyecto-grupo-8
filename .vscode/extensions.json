@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "fudge.auto-using",
+        "jchannon.csharpextensions",
+        "esbenp.prettier-vscode"
+    ]
+}
